@@ -122,7 +122,7 @@ print(l2)
 
 Figure \@ref(fig:original-fig) shows the top 25 topics extracted in the original paper.
 ```{r,original-topics, fig.cap="Original top 25 topics", echo=FALSE}
-knitr::include_graphics("../analysis/figures/original-topics-list.png")
+knitr::include_graphics("../analysis/figures/original-topics-list.PNG")
 ```
 
 ```{python include=FALSE}
